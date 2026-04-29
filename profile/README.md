@@ -2,15 +2,15 @@
 
 **Cross-chain observability for blockchain applications.**
 
-[Mirador](https://mirador.org) correlates transactions across EVM and Solana chains into unified traces — giving developers, operators, and AI agents a single timeline for every cross-chain flow.
+[Mirador](https://mirador.org) correlates transactions across EVM and Solana chains into unified traces. We give developers, operators, and AI agents a single timeline for every cross-chain flow.
 
 ## What we build
 
-- **Trace ingestion** — capture blockchain events via lightweight SDKs and correlate them with application context in real time
-- **Cross-chain correlation** — automatically detect and match bridge transactions across chains (Ethereum, Polygon, Arbitrum, Base, Optimism, Solana, and more)
-- **Safe multisig tracking** — follow Safe message and transaction confirmations from proposal to execution
-- **Query API** — REST gateway for traces, events, and chain data with filtering, search, and streaming
-- **Automation** — rule-based triggers with webhook, email, and Slack integrations
+- **Trace ingestion**: capture blockchain events via lightweight SDKs and correlate them with application context in real time
+- **Cross-chain correlation**: automatically detect and match bridge transactions across chains (Ethereum, Polygon, Arbitrum, Base, Optimism, Solana, and more)
+- **Safe multisig tracking**: follow Safe message and transaction confirmations from proposal to execution
+- **Query API**: REST gateway for traces, events, and chain data with filtering, search, and streaming
+- **Automation**: rule-based triggers with webhook, email, and Slack integrations
 
 ## Open source SDKs
 
