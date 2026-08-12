@@ -16,7 +16,6 @@
 
 | Package | Description | Install |
 |---------|-------------|---------|
-| [`@miradorlabs/nodejs-sdk`](https://github.com/miradorlabs/nodejs-sdk) | Server-side Node.js SDK (gRPC) | `npm install @miradorlabs/nodejs-sdk` |
 | [`@miradorlabs/web-sdk`](https://github.com/miradorlabs/web-sdk) | Browser SDK (gRPC-Web) | `npm install @miradorlabs/web-sdk` |
 | [`@miradorlabs/cli`](https://github.com/miradorlabs/mirador-cli) | CLI for querying traces and events | `npm install -g @miradorlabs/cli` |
 
